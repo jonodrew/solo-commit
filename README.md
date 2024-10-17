@@ -1,2 +1,2 @@
 # solo-commit
-POC for needing to sign commits
+PoC for needing to sign commits
